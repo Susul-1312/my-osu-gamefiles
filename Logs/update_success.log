@@ -1,0 +1,14 @@
+2020-08-17T12:02:57: CallbackStatus updated to Checking
+2020-08-17T12:02:57: 
+2020-08-17T12:02:57: Beginning update thread
+2020-08-17T12:02:57: Stream: Stable40
+2020-08-17T12:02:57: 
+2020-08-17T12:02:57: Running cleanup..
+2020-08-17T12:02:57: Cleanup successful!
+2020-08-17T12:02:57: Requesting update information...
+2020-08-17T12:02:58: No changes to apply!
+2020-08-17T12:02:58: Saving out global config
+2020-08-17T12:02:58: 
+2020-08-17T12:02:58: Ending update thread with result: NoUpdate
+2020-08-17T12:02:58: 
+2020-08-17T12:02:58: CallbackStatus updated to NoUpdate
